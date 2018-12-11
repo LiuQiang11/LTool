@@ -1,0 +1,16 @@
+PODS:
+  - LTool (0.1.0)
+
+DEPENDENCIES:
+  - LTool (from `../`)
+
+EXTERNAL SOURCES:
+  LTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LTool: aad8c2d5e8e710ba6266c4fe066533fdfba1e4b2
+
+PODFILE CHECKSUM: 446157f2ccf1158a6f2a43ee00ada001cfedb248
+
+COCOAPODS: 1.5.0
